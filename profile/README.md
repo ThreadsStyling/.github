@@ -15,9 +15,12 @@ We are integrating our client and internal systems to create a next-generation s
 - TypeScript
 - Node.js
 - React / React Native
+- Next.js
 - AWS
 - Terraform
 - Postgres
+- Kafka
+- NestJS
 - Docker
 
 ### 🚀 Work with us
