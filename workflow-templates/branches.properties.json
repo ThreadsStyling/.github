@@ -1,0 +1,5 @@
+{
+  "name": "Branches workflow for nest services",
+  "description": "Branches starter workflow for Nest.js repositories",
+  "categories": ["continuous-integration", "code-quality", "testing"]
+}
